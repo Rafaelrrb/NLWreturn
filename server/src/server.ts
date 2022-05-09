@@ -95,5 +95,9 @@ app.listen(3333, ()=> {
     Crontrole de segurança pro backend
       npm i cors
       npm i @types/cors -D
+
+    Criar a pasta dist
+      npx tsc
+      
 */
 
